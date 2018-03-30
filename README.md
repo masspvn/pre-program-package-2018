@@ -20,9 +20,9 @@ Với hệ điều hành Windows, khi cài xong, từ Start Menu mở chương t
 ```
 ~/ $ mkdir MaSSP
 ```
-Chạy lệnh sau đây để tạo môi trường `datascience` với Python ### 3.5 và Jupyter notebook:
+Chạy lệnh sau đây để tạo môi trường `datascience` với Python 3.5 và Jupyter notebook:
 ```
-~/MaSSP $ conda create -n datascience python=### 3.5 jupyter
+~/MaSSP $ conda create -n datascience python=3.5 jupyter
 ```
 Gõ “y” và Enter nếu được hỏi `Proceed ([y]/n)?`
 
@@ -73,6 +73,6 @@ Mọi ý kiến/thắc mắc hãy post lên Facebook group hoặc gửi email ch
 Nếu có sự cố khi cài đặt, hãy hỏi mentors và trong câu hỏi ghi rõ đang ở bước nào và kèm screenshot.
 
 ### 2. LaTEX (tự chọn)
-Các bạn có thể tham khảo tài liệu `Intro to LaTEX.pdf` soạn thảo bởi anh Hồ Đức - mentor nhóm Toán để tìm hiểu cách sử dụng LaTEX trên trang https://www.overleaf.com/. Ngoài ra, còn rất nhiều tài liệu hay khác như http://math2it.com/tu-hoc-latex-bai-tong-hop/, và ![video](https://www.youtube.com/watch?v=Qc82mJTDzt8&index=2&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp) của anh Vũ Hữu Tiệp.
+Các bạn có thể tham khảo tài liệu `Intro to LaTEX.pdf` soạn thảo bởi anh Hồ Đức - mentor nhóm Toán để tìm hiểu cách sử dụng LaTEX trên trang https://www.overleaf.com/. Ngoài ra, còn rất nhiều tài liệu hay khác như http://math2it.com/tu-hoc-latex-bai-tong-hop/, và ![loạt video về LaTEX](https://www.youtube.com/watch?v=Qc82mJTDzt8&index=2&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp) của anh Vũ Hữu Tiệp.
 
 
