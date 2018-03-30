@@ -67,12 +67,12 @@ Thử numpy và matplotlib: trong notebook vừa tạo, gõ lệnh import sau v�
 Các bạn hãy xem video hướng dẫn cách sử dụng Jupyter notebook: [phần 1](https://www.youtube.com/watch?v=6JeSric40N0) và [phần 2](https://www.youtube.com/watch?v=BY2V1wxGFy4).
 Sau đó, các bạn hãy đọc và thử các lệnh trong notebook `Learn_Python.ipynb` để làm quen với Python.
 
-Ngoài ra, còn rất nhiều tài liệu hay khác để bắt đầu với Python, ví dụ lớp miễn phí của ĐH KHTN HCM trên vnsigma (http://vnsigma.net/), lớp học online của University of Michigan subtitled bởi Kiến Học: Python ![cơ bản](http://study.kienhoc.vn/courses/course-v1:UMICH+CS101+2016_T3/about) và ![nâng cao](http://study.kienhoc.vn/courses/course-v1:UMICH+CS201+2016_T3/about). 
+Ngoài ra, còn rất nhiều tài liệu hay khác để bắt đầu với Python, ví dụ lớp miễn phí của ĐH KHTN HCM trên vnsigma (http://vnsigma.net/), lớp học online của University of Michigan subtitled bởi Kiến Học: Python [cơ bản](http://study.kienhoc.vn/courses/course-v1:UMICH+CS101+2016_T3/about) và [nâng cao](http://study.kienhoc.vn/courses/course-v1:UMICH+CS201+2016_T3/about). 
 
 Mọi ý kiến/thắc mắc hãy post lên Facebook group hoặc gửi email cho mentor.
 Nếu có sự cố khi cài đặt, hãy hỏi mentors và trong câu hỏi ghi rõ đang ở bước nào và kèm screenshot.
 
 ### 2. LaTEX (tự chọn)
-Các bạn có thể tham khảo tài liệu `Intro to LaTEX.pdf` soạn thảo bởi anh Hồ Đức - mentor nhóm Toán để tìm hiểu cách sử dụng LaTEX trên trang https://www.overleaf.com/. Ngoài ra, còn rất nhiều tài liệu hay khác như http://math2it.com/tu-hoc-latex-bai-tong-hop/, và ![loạt video về LaTEX](https://www.youtube.com/watch?v=Qc82mJTDzt8&index=2&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp) của anh Vũ Hữu Tiệp.
+Các bạn có thể tham khảo tài liệu `Intro to LaTEX.pdf` soạn thảo bởi anh Hồ Đức - mentor nhóm Toán để tìm hiểu cách sử dụng LaTEX trên trang https://www.overleaf.com/. Ngoài ra, còn rất nhiều tài liệu hay khác như http://math2it.com/tu-hoc-latex-bai-tong-hop/, và [loạt video về LaTEX](https://www.youtube.com/watch?v=Qc82mJTDzt8&index=2&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp) của anh Vũ Hữu Tiệp.
 
 
