@@ -13,7 +13,7 @@ Từ command shell của Git, nhập lệnh clone repo của massp. Nếu thành
 ## Anaconda, Python
 ### 1. Cài đặt Anaconda
 
-tải file cài Anaconda cho Python 3 tại https://www.continuum.io/downloads, ví dụ Anaconda3-### 4.### 2.0-Windows-x86_6### 4.exe, và cài đặt theo chỉ dẫn. Chọn "allow add to path and use Anaconda as default Python" nếu được hỏi.
+Tải file cài Anaconda cho Python 3 tại https://www.continuum.io/downloads, ví dụ Anaconda3-4.2.0-Windows-x86_64.exe, và cài đặt theo chỉ dẫn. Chọn "allow add to path and use Anaconda as default Python" nếu được hỏi.
 ### 2. Tạo môi trường
 
 Với hệ điều hành Windows, khi cài xong, từ Start Menu mở chương trình Anaconda Prompt. Tiếp đó, tạo một thư mục để chứa tài liệu trong trại hè, ví dụ `~/MaSSP`:
