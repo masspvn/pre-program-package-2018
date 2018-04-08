@@ -1,5 +1,18 @@
 # pre-program-package-2018
-Tài liệu gửi trước chuẩn bị cho chương trình Trại hè Toán và Khoa học MaSSP 2018.
+Tài liệu gửi trước chuẩn bị cho chương trình Trại hè Toán và Khoa học MaSSP 2018 được chuẩn bị bởi nhóm mentors môn Tin học MaSSP 2017 và 2018.
+
+Chủ đề của môn Tin học năm 2018 là Giới thiệu bộ môn Khoa học Dữ liệu (Data Science) và Máy học (Machine Learning).
+
+Chắc hẳn các ngành học này còn khá mới lạ với các bạn. Sau đây là những tài liệu có thể giúp bạn tìm hiểu sơ qua về những ứng dụng của các ngành học này.
+
+1. [The best stats you've ever seen - Hans Rosling](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen/transcript ) (có phụ đề tiếng Việt). Trang web tương tác đi kèm video này: http://www.shichaoji.com/home-page/ 
+2. [Machine Learning là gì? | Vũ Hữu Tiệp](http://machinelearningcoban.com/2016/12/26/introduce/)
+3. [How we teach computers to understand pictures - Fei Fei Li](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures/transcript) (có phụ đề tiếng Việt).
+
+Ngôn ngữ được giảng dạy chủ yếu trong khoá học là Python 3, vì thế các bạn có thể tìm trong tài liệu gửi trước này tutorial giới thiệu ngôn ngữ Python. Ngoài ra, các bạn sẽ được làm quen với một số thư viện thông dụng trong Python: numpy, matplotlib, và pandas. Những thư viện này được sử dụng rộng rãi cho việc minh hoạ dữ liệu (data visualization) và thống kê mô tả (descriptive statistics) - những bước không thể thiếu khi khám phá một bộ dữ liệu lớn và phức tạp.
+
+Nhưng trước hết, các bạn hãy làm theo hướng dẫn sau để cài đặt những công cụ cần thiết. Tuỳ hệ điều hành của máy tính của bạn mà các bước này có thể khác nhau một chút. Vì vậy, đừng ngại hỏi mentor nếu có vướng mắc!
+
 ## Github
 ### 1. Cài đặt Git
 Làm theo chỉ dẫn của phần Setting Up Git: https://help.github.com/articles/set-up-git/#setting-up-git
@@ -8,8 +21,7 @@ Từ command shell của Git, nhập lệnh clone repo của massp. Nếu thành
 ```
 ~/MaSSP $ git clone https://github.com/masspvn/pre-program-package-2018.git 
 ```
-Đừng ngại hỏi mentor nếu bước này không thành công!
-
+Nếu có sự cố khi cài đặt, hãy hỏi mentors và trong câu hỏi ghi rõ đang ở bước nào và kèm screenshot.
 ## Anaconda, Python
 ### 1. Cài đặt Anaconda
 
@@ -63,16 +75,28 @@ Thử numpy và matplotlib: trong notebook vừa tạo, gõ lệnh import sau v�
 ![thử numpy và matplotlib](/images/verify_numpy_matplotlib.png)
 
 ## Tutorials
-### 1. Jupyter notebook, Python, Pandas
-Các bạn hãy xem video hướng dẫn cách sử dụng Jupyter notebook: [phần 1](https://www.youtube.com/watch?v=6JeSric40N0) và [phần 2](https://www.youtube.com/watch?v=BY2V1wxGFy4).
-Sau đó, các bạn hãy đọc và thử các lệnh trong notebook `Learn_Python.ipynb` để làm quen với Python.
+Mọi ý kiến/thắc mắc/phát hiện lỗi sai, hãy post lên Facebook group hoặc gửi email cho mentor!
+### 1. Jupyter notebook
+Các bạn hãy xem video hướng dẫn cách sử dụng Jupyter notebook: [phần 1](https://www.youtube.com/watch?v=6JeSric40N0) và [phần 2](https://www.youtube.com/watch?v=BY2V1wxGFy4). Lúc này, kể cả khi bạn chưa biết sử dụng Python, hãy vẫn cố làm theo các thao tác trong video nhé!
+
+### 2. Python
+Nếu bạn chưa từng sử dụng Python, hãy đọc và thử các lệnh trong notebook `Learn_Python.ipynb` để làm quen với các câu lệnh đơn giản.
 
 Ngoài ra, còn rất nhiều tài liệu hay khác để bắt đầu với Python, ví dụ lớp miễn phí của ĐH KHTN HCM trên vnsigma (http://vnsigma.net/), lớp học online của University of Michigan subtitled bởi Kiến Học: Python [cơ bản](http://study.kienhoc.vn/courses/course-v1:UMICH+CS101+2016_T3/about) và [nâng cao](http://study.kienhoc.vn/courses/course-v1:UMICH+CS201+2016_T3/about). 
 
-Mọi ý kiến/thắc mắc hãy post lên Facebook group hoặc gửi email cho mentor.
-Nếu có sự cố khi cài đặt, hãy hỏi mentors và trong câu hỏi ghi rõ đang ở bước nào và kèm screenshot.
+### 3. Pandas
+Trong notebook `Learn_Pandas.ipynb`, các bạn sẽ học được một số câu lệnh thường dùng trong Pandas. Cuối mỗi phần thường có các `checkpoint`, đó là những bài tập nhỏ các bạn nên hoàn thiện trước khi đi tiếp các phần sau. Sau khi hoàn thành notebook, hãy thử vẽ số đồ thị tuỳ thích dựa theo những số liệu có thật và chia sẻ lên group Facebook để mọi người cùng biết nhé!
 
-### 2. LaTEX (tự chọn)
+Sau đây là một số những trang web có thể tìm thấy số liệu thống kê:
+- https://www.kaggle.com/ 
+- https://www.gso.gov.vn/ 
+- https://www.data.gov/ 
+- https://data.gov.uk/ 
+- https://data.gov.sg/ 
+- https://data.worldbank.org/ 
+- http://data.go.id/ 
+
+### 4. LaTEX (tự chọn)
 Các bạn có thể tham khảo tài liệu `Intro to LaTEX.pdf` soạn thảo bởi anh Hồ Đức - mentor nhóm Toán để tìm hiểu cách sử dụng LaTEX trên trang https://www.overleaf.com/. Ngoài ra, còn rất nhiều tài liệu hay khác như http://math2it.com/tu-hoc-latex-bai-tong-hop/, và [loạt video về LaTEX](https://www.youtube.com/watch?v=Qc82mJTDzt8&index=2&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp) của anh Vũ Hữu Tiệp.
 
 
