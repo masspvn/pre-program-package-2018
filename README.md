@@ -11,7 +11,7 @@ Chắc hẳn các ngành học này còn khá mới lạ với các bạn. Sau �
 
 Ngôn ngữ được giảng dạy chủ yếu trong khoá học là Python 3, vì thế các bạn có thể tìm trong tài liệu gửi trước này tutorial giới thiệu ngôn ngữ Python. Ngoài ra, các bạn sẽ được làm quen với một số thư viện thông dụng trong Python: numpy, matplotlib, và pandas. Những thư viện này được sử dụng rộng rãi cho việc minh hoạ dữ liệu (data visualization) và thống kê mô tả (descriptive statistics) - những bước không thể thiếu khi khám phá một bộ dữ liệu lớn và phức tạp.
 
-Nhưng trước hết, các bạn hãy làm theo hướng dẫn sau để cài đặt những công cụ cần thiết. Tuỳ hệ điều hành của máy tính của bạn mà các bước này có thể khác nhau một chút. Vì vậy, đừng ngại hỏi mentor nếu có vướng mắc!
+Nhưng trước hết, các bạn hãy làm theo hướng dẫn sau để cài đặt những công cụ cần thiết. Tuỳ hệ điều hành của máy tính của bạn mà các bước này có thể khác nhau một chút. Vì vậy, đừng ngại hỏi mentor nếu có vướng mắc! Facebook group: [MaSSP Tin](https://www.facebook.com/groups/183191748970952/).
 
 ## Github
 ### 1. Cài đặt Git
@@ -85,7 +85,7 @@ Nếu bạn chưa từng sử dụng Python, hãy đọc và thử các lệnh t
 Ngoài ra, còn rất nhiều tài liệu hay khác để bắt đầu với Python, ví dụ lớp miễn phí của ĐH KHTN HCM trên vnsigma (http://vnsigma.net/), lớp học online của University of Michigan subtitled bởi Kiến Học: Python [cơ bản](http://study.kienhoc.vn/courses/course-v1:UMICH+CS101+2016_T3/about) và [nâng cao](http://study.kienhoc.vn/courses/course-v1:UMICH+CS201+2016_T3/about).
 
 ### 3. Pandas
-Trong notebook `Learn_Pandas.ipynb`, các bạn sẽ học được một số câu lệnh thường dùng trong Pandas. Cuối mỗi phần thường có các `checkpoint`, đó là những bài tập nhỏ các bạn nên hoàn thiện trước khi đi tiếp các phần sau. Sau khi hoàn thành notebook, hãy thử vẽ một số đồ thị tuỳ thích dựa theo những số liệu có thật và chia sẻ lên group Facebook để mọi người cùng biết nhé!
+Trong notebook `Learn_Pandas.ipynb`, các bạn sẽ học được một số câu lệnh thường dùng trong Pandas. Cuối mỗi phần thường có các `checkpoint`, đó là những bài tập nhỏ các bạn nên hoàn thiện trước khi đi tiếp các phần sau. Sau khi hoàn thành notebook, hãy thử vẽ một số đồ thị tuỳ thích dựa theo những số liệu có thật và chia sẻ lên Facebook group [MaSSP Tin](https://www.facebook.com/groups/183191748970952/) để mọi người cùng biết nhé!
 
 Sau đây là một số những trang web có thể tìm thấy số liệu thống kê:
 - https://www.kaggle.com/
@@ -97,4 +97,4 @@ Sau đây là một số những trang web có thể tìm thấy số liệu th�
 - http://data.go.id/
 
 ### 4. LaTEX (tự chọn)
-Các bạn có thể tham khảo tài liệu `Intro to LaTEX.pdf` soạn thảo bởi anh Hồ Đức - mentor nhóm Toán để tìm hiểu cách sử dụng LaTEX trên trang https://www.overleaf.com/. Ngoài ra, còn rất nhiều tài liệu hay khác như http://math2it.com/tu-hoc-latex-bai-tong-hop/, và [loạt video về LaTEX](https://www.youtube.com/watch?v=Qc82mJTDzt8&index=2&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp) của anh Vũ Hữu Tiệp.
+Các bạn có thể tham khảo tài liệu `Intro to LaTEX.pdf` soạn thảo bởi anh Hồ Đức - mentor nhóm Toán để tìm hiểu cách sử dụng LaTEX trên trang https://www.overleaf.com/. Ngoài ra, còn rất nhiều tài liệu hay khác như http://math2it.com/tu-hoc-latex-bai-tong-hop/, và [loạt video về LaTEX](https://www.youtube.com/watch?v=Qc82mJTDzt8&index=2&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp) của anh Vũ Hữu Tiệp (cùng source code trên [Github](https://github.com/tiepvupsu/LatexBasics)).
