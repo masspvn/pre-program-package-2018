@@ -13,20 +13,22 @@ Ngôn ngữ được giảng dạy chủ yếu trong khoá học là Python 3, v
 
 Nhưng trước hết, các bạn hãy làm theo hướng dẫn sau để cài đặt những công cụ cần thiết. Các bạn cần biết dùng [giao diện dòng lệnh](https://www.codehub.vn/Command-line-co-ban-cho-nguoi-moi-bat-dau) (Command Line Interface hay CLI) trên Terminal. Tuỳ hệ điều hành của máy tính của bạn mà các bước sau có thể khác nhau một chút. Vì vậy, đừng ngại hỏi mentor nếu có vướng mắc! Facebook group: [MaSSP Tin](https://www.facebook.com/groups/183191748970952/).
 
-## Github
-### 1. Cài đặt Git
+## 1. Github
+### 1.1. Tìm hiểu về Git
+Git là một trong những `hệ thống quản lý phiên bản code phân tán`, vốn được phát triển nhằm quản lý mã nguồn (source code). Một số bài giới thiệu về tham chiếu Git và Github bằng tiếng Việt: của [Mark Lodato & Hoat Le](http://marklodato.github.io/visual-git-guide/index-vi.html), blog của [Dỗ Minh Hải](https://dominhhai.github.io/vi/categories/git/), [Git-SCM](https://git-scm.com/book/vi/v1/Bắt-Đầu-Cơ-Bản-về-Git), etc.
+### 1.2. Cài đặt Git
 Làm theo chỉ dẫn của phần Setting Up Git: https://help.github.com/articles/set-up-git/#setting-up-git
-### 2. Kiểm tra
+### 1.3. Kiểm tra
 Từ command shell của Git, nhập lệnh clone repo của massp. Nếu thành công, một thư mục `pre-program-package-2018` sẽ được tạo ra
 ```
 ~/MaSSP $ git clone https://github.com/masspvn/pre-program-package-2018.git
 ```
 Nếu có sự cố khi cài đặt, hãy hỏi mentors và trong câu hỏi ghi rõ đang ở bước nào và kèm screenshot. Bạn có thể làm các bước 1-4 trong phần tiếp theo mà không cần đến Git.
-## Anaconda, Python
-### 1. Cài đặt Anaconda
+## 2. Anaconda, Python
+### 2.1. Cài đặt Anaconda
 
 Tải file cài Anaconda cho Python 3 tại https://www.continuum.io/downloads, ví dụ Anaconda3-4.2.0-Windows-x86_64.exe, và cài đặt theo chỉ dẫn. Chọn "allow add to path and use Anaconda as default Python" nếu được hỏi.
-### 2. Tạo môi trường
+### 2.2. Tạo môi trường
 
 Với hệ điều hành Windows, khi cài xong, từ Start Menu mở chương trình Anaconda Prompt. Tiếp đó, tạo một thư mục để chứa tài liệu trong trại hè, ví dụ `~/MaSSP`:
 ```
@@ -38,20 +40,20 @@ Chạy lệnh sau đây để tạo môi trường `datascience` với Python 3.
 ```
 Gõ “y” và Enter nếu được hỏi `Proceed ([y]/n)?`
 
-### 3. Kích hoạt môi trường
+### 2.3. Kích hoạt môi trường
 ```
 ~/MaSSP $ activate datascience
 ```
 Nếu lệnh trên không được, thử `source activate datascience`.
 
-### 4. Cài các thư viện cần thiết vào môi trường
+### 2.4. Cài các thư viện cần thiết vào môi trường
 
 Để bắt đầu, chúng ta cần 2 thư viện matplotlib và numpy.
 ```
 (datascience) ~/MaSSP $  conda install matplotlib
 (datascience) ~/MaSSP $  conda install numpy
 ```
-### 5. Khởi động Jupyter notebook
+### 2.5. Khởi động Jupyter notebook
 
 Tải repo sau từ GitHub của MaSSP
 ```
@@ -64,7 +66,7 @@ Từ Anaconda Prompt, khởi động Jupyter notebook
 ```
 Nếu một session của Jupyter notebook không tự động bắt đầu trên trình duyệt, copy đường link nhận được trong terminal và mở bằng trình duyệt. Đường link này thường bắt đầu với “http://localhost:XXXX”. Tại đường link này, bạn sẽ thấy một số tài liệu của chương trình. Trước khi đọc những tài liệu này, hãy kiểm tra xem các bước cài trên đã thành công chưa.
 
-### 6. Kiểm tra cài đặt
+### 2.6. Kiểm tra cài đặt
 
 Thử tạo một notebook mới: Nhấn nút “New” ở góc trên bên phải màn hình và chọn “Python 3” ở dưới “Notebooks” như hình ảnh sau. Một notebook có tên Untitled sẽ được tạo ra.
 
@@ -74,17 +76,17 @@ Thử numpy và matplotlib: trong notebook vừa tạo, gõ lệnh import sau v�
 
 ![thử numpy và matplotlib](/images/verify_numpy_matplotlib.png)
 
-## Tutorials
+## 3. Tutorials
 Mọi ý kiến/thắc mắc/phát hiện lỗi sai, hãy post lên Facebook group hoặc gửi email cho mentor!
-### 1. Jupyter notebook
+### 3.1. Jupyter notebook
 Các bạn hãy xem video hướng dẫn cách sử dụng Jupyter notebook: [phần 1](https://www.youtube.com/watch?v=vYAvS97jqN8&t=0s&list=PLqOu9En69v830W527rOX__3v23eZIqGCH) và [phần 2](https://www.youtube.com/watch?v=8zb0u782AsQ&t=4s&list=PLqOu9En69v830W527rOX__3v23eZIqGCH). Lúc này, kể cả khi bạn chưa biết sử dụng Python, hãy vẫn cố làm theo các thao tác trong video nhé!
 
-### 2. Python
+### 3.2. Python
 Nếu bạn chưa từng sử dụng Python, hãy đọc và thử các lệnh trong notebook `Learn_Python.ipynb` để làm quen với các câu lệnh đơn giản.
 
 Ngoài ra, còn rất nhiều tài liệu hay khác để bắt đầu với Python, ví dụ lớp miễn phí của ĐH KHTN HCM trên vnsigma (http://vnsigma.net/), lớp học online của University of Michigan subtitled bởi Kiến Học: Python [cơ bản](http://study.kienhoc.vn/courses/course-v1:UMICH+CS101+2016_T3/about) và [nâng cao](http://study.kienhoc.vn/courses/course-v1:UMICH+CS201+2016_T3/about).
 
-### 3. Pandas
+### 3.3. Pandas
 Trong notebook `Learn_Pandas.ipynb`, các bạn sẽ học được một số câu lệnh thường dùng trong Pandas. Cuối mỗi phần thường có các `checkpoint`, đó là những bài tập nhỏ các bạn nên hoàn thiện trước khi đi tiếp các phần sau. Sau khi hoàn thành notebook, hãy thử vẽ một số đồ thị tuỳ thích dựa theo những số liệu có thật và chia sẻ lên Facebook group [MaSSP Tin](https://www.facebook.com/groups/183191748970952/) để mọi người cùng biết nhé!
 
 Sau đây là một số những trang web có thể tìm thấy số liệu thống kê:
@@ -96,5 +98,5 @@ Sau đây là một số những trang web có thể tìm thấy số liệu th�
 - https://data.worldbank.org/
 - http://data.go.id/
 
-### 4. LaTEX (tự chọn)
+### 3.4. LaTEX (tự chọn)
 Các bạn có thể tham khảo tài liệu `Intro to LaTEX.pdf` soạn thảo bởi anh Hồ Đức - mentor nhóm Toán để tìm hiểu cách sử dụng LaTEX trên trang https://www.overleaf.com/. Ngoài ra, còn rất nhiều tài liệu hay khác như http://math2it.com/tu-hoc-latex-bai-tong-hop/, và [loạt video về LaTEX](https://www.youtube.com/watch?v=Qc82mJTDzt8&index=2&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp) của anh Vũ Hữu Tiệp (cùng source code trên [Github](https://github.com/tiepvupsu/LatexBasics)).
