@@ -11,7 +11,7 @@ Chắc hẳn các ngành học này còn khá mới lạ với các bạn. Sau �
 
 Ngôn ngữ được giảng dạy chủ yếu trong khoá học là Python 3, vì thế các bạn có thể tìm trong tài liệu gửi trước này tutorial giới thiệu ngôn ngữ Python. Ngoài ra, các bạn sẽ được làm quen với một số thư viện thông dụng trong Python: numpy, matplotlib, và pandas. Những thư viện này được sử dụng rộng rãi cho việc minh hoạ dữ liệu (data visualization) và thống kê mô tả (descriptive statistics) - những bước không thể thiếu khi khám phá một bộ dữ liệu lớn và phức tạp.
 
-Nhưng trước hết, các bạn hãy làm theo hướng dẫn sau để cài đặt những công cụ cần thiết. Tuỳ hệ điều hành của máy tính của bạn mà các bước này có thể khác nhau một chút. Vì vậy, đừng ngại hỏi mentor nếu có vướng mắc! Facebook group: [MaSSP Tin](https://www.facebook.com/groups/183191748970952/).
+Nhưng trước hết, các bạn hãy làm theo hướng dẫn sau để cài đặt những công cụ cần thiết. Các bạn cần biết dùng [giao diện dòng lệnh](https://www.codehub.vn/Command-line-co-ban-cho-nguoi-moi-bat-dau) (Command Line Interface hay CLI) trên Terminal. Tuỳ hệ điều hành của máy tính của bạn mà các bước sau có thể khác nhau một chút. Vì vậy, đừng ngại hỏi mentor nếu có vướng mắc! Facebook group: [MaSSP Tin](https://www.facebook.com/groups/183191748970952/).
 
 ## Github
 ### 1. Cài đặt Git
