@@ -84,7 +84,7 @@ Các bạn hãy xem video hướng dẫn cách sử dụng Jupyter notebook: [ph
 ### 3.2. Python
 Nếu bạn chưa từng sử dụng Python, hãy đọc và thử các lệnh trong notebook `Learn_Python.ipynb` để làm quen với các câu lệnh đơn giản.
 
-Ngoài ra, còn rất nhiều tài liệu hay khác để bắt đầu với Python, ví dụ lớp miễn phí của ĐH KHTN HCM trên vnsigma (http://vnsigma.net/), lớp học online của University of Michigan subtitled bởi Kiến Học: Python [cơ bản](http://study.kienhoc.vn/courses/course-v1:UMICH+CS101+2016_T3/about) và [nâng cao](http://study.kienhoc.vn/courses/course-v1:UMICH+CS201+2016_T3/about).
+Ngoài ra, còn rất nhiều tài liệu hay khác để bắt đầu với Python, ví dụ lớp miễn phí của ĐH KHTN HCM trên vnsigma (http://vnsigma.net/), lớp học online của University of Michigan subtitled bởi Kiến Học: Python [cơ bản](http://study.kienhoc.vn/courses/course-v1:UMICH+CS101+2016_T3/about) và [nâng cao](http://study.kienhoc.vn/courses/course-v1:UMICH+CS201+2016_T3/about). Tutorials in English: [CS231](http://cs231n.github.io/python-numpy-tutorial/).
 
 ### 3.3. Pandas
 Trong notebook `Learn_Pandas.ipynb`, các bạn sẽ học được một số câu lệnh thường dùng trong Pandas. Cuối mỗi phần thường có các `checkpoint`, đó là những bài tập nhỏ các bạn nên hoàn thiện trước khi đi tiếp các phần sau. Sau khi hoàn thành notebook, hãy thử vẽ một số đồ thị tuỳ thích dựa theo những số liệu có thật và chia sẻ lên Facebook group [MaSSP Tin](https://www.facebook.com/groups/183191748970952/) để mọi người cùng biết nhé!
